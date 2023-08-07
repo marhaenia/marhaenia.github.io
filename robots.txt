@@ -3,4 +3,4 @@ Allow: /
 Disallow: /files/
 Disallow: /images/
 
-Sitemap: https://www.marhaenia.rf.gd/sitemap.xml
+Sitemap: /sitemap.xml
