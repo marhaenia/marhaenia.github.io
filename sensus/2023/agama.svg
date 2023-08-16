@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   style="font-family:'lucida grande', 'lucida sans unicode', arial, helvetica, sans-serif;font-size:12px;"
+   width="600"
+   height="400"
+   id="svg548"
+   sodipodi:docname="agama.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata552">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1328"
+     inkscape:window-height="688"
+     id="namedview550"
+     showgrid="false"
+     inkscape:zoom="1.1633114"
+     inkscape:cx="293.23467"
+     inkscape:cy="200"
+     inkscape:window-x="19"
+     inkscape:window-y="13"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg548" />
+  <desc
+     id="desc449">Created with Highcharts 4.2.7</desc>
+  <defs
+     id="defs454">
+    <clipPath
+       id="highcharts-16">
+      <rect
+         x="0"
+         y="0"
+         width="600"
+         height="400"
+         id="rect451" />
+    </clipPath>
+  </defs>
+  <rect
+     x="10"
+     y="49"
+     width="580"
+     height="299"
+     fill="#ffffff"
+     id="rect456" />
+  <rect
+     x="10"
+     y="49"
+     width="580"
+     height="299"
+     stroke="#026FC1"
+     stroke-width="2"
+     fill="none"
+     id="rect458" />
+  <g
+     class="highcharts-series-group"
+     id="g488">
+    <g
+       class="highcharts-series highcharts-series-0"
+       transform="translate(10,49) scale(1 1)"
+       id="g484">
+      <path
+         fill="rgb(55,155,25)"
+         d="M 169.17540893716284 100.19651029339724 L 169.17540893716284 108.15146158174589 L 290 157.45495128834867 L 290 149.5 Z"
+         transform="translate(0,0)"
+         visibility="visible"
+         id="path460" />
+      <path
+         fill="rgb(212,61,2)"
+         d="M 169.1761061998422 100.19565593698567 L 169.1761061998422 108.15060722533433 L 290 157.45495128834867 L 290 149.5 Z"
+         transform="translate(0,0)"
+         visibility="visible"
+         id="path462" />
+      <path
+         fill="rgb(212,61,2)"
+         d="M 289.9443422378124 50.85861187560896 L 289.9443422378124 58.81356316395762 L 290 157.45495128834867 L 290 149.5 Z"
+         transform="translate(0,0)"
+         visibility="visible"
+         id="path464" />
+      <path
+         fill="rgb(55,155,25)"
+         d="M 289.9715875880845 50.85860607043601 L 289.9715875880845 58.81355735878467 L 290 157.45495128834867 L 290 149.5 Z"
+         transform="translate(0,0)"
+         visibility="visible"
+         id="path466" />
+      <path
+         fill="rgb(212,61,2)"
+         d="M 169.1761061998422 100.19565593698567 C 194.84374334195334 68.74544680129779 238.59204446999115 50.87309947574969 289.9443422378124 50.85861187560896 L 289.9443422378124 58.81356316395762 C 238.59204446999115 58.82805076409835 194.84374334195334 76.70039808964644 169.1761061998422 108.15060722533433 Z"
+         transform="translate(0,0)"
+         visibility="visible"
+         id="path468" />
+      <path
+         fill="rgb(212,61,2)"
+         d="M 290 149.5 C 290 149.5 290 149.5 290 149.5 L 290 157.45495128834867 C 290 157.45495128834867 290 157.45495128834867 290 157.45495128834867 Z"
+         transform="translate(0,0)"
+         visibility="visible"
+         id="path470" />
+      <path
+         fill="rgb(55,155,25)"
+         d="M 429.5 149.5 C 429.5 203.97813869930218 367.0437226013957 248.14139597552338 290 248.14139597552338 C 212.9562773986043 248.14139597552338 150.5 203.97813869930218 150.5 149.5 L 150.5 157.45495128834867 C 150.5 139.30255766086785 156.34420675275135 123.87372349466361 169.17540893716284 108.15146158174589 L 169.17540893716284 100.19651029339724 C 156.34420675275135 115.91877220631496 150.5 131.34760637251918 150.5 149.5 L 150.5 157.45495128834867 C 150.5 211.93308998765085 212.9562773986043 256.096347263872 290 256.096347263872 C 367.0437226013957 256.096347263872 429.5 211.93308998765085 429.5 157.45495128834867 Z"
+         transform="translate(0,0)"
+         visibility="visible"
+         id="path472" />
+      <path
+         fill="rgb(55,155,25)"
+         d="M 290 149.5 C 290 149.5 290 149.5 290 149.5 C 290 149.5 290 149.5 290 149.5 C 290 149.5 290 149.5 290 149.5 C 290 149.5 290 149.5 290 149.5 L 290 157.45495128834867 C 290 157.45495128834867 290 157.45495128834867 290 157.45495128834867 C 290 157.45495128834867 290 157.45495128834867 290 157.45495128834867 C 290 157.45495128834867 290 157.45495128834867 290 157.45495128834867 C 290 157.45495128834867 290 157.45495128834867 290 157.45495128834867 Z"
+         transform="translate(0,0)"
+         visibility="visible"
+         id="path474" />
+      <g
+         stroke="#FFFFFF"
+         stroke-width="1"
+         stroke-linejoin="round"
+         id="g478">
+        <path
+           fill="#50B432"
+           d="M 289.9715875880845 50.85860607043601 C 367.01530859148653 50.847510333395775 429.4843053647697 95.0017718215147 429.49999710657653 149.4799093908647 C 429.5156888483834 203.9580469602147 367.0721334153175 248.13029819252375 290.0284124119155 248.141393929564 C 212.98469140851347 248.15248966660425 150.51569463523032 203.99822817848533 150.5000028934235 149.5200906091353 C 150.49477229040423 131.3606335926692 156.33921365889606 115.9248903181037 169.17540893716284 100.19651029339724 L 290 149.5 C 290 149.5 290 149.5 290 149.5 C 290 149.5 290 149.5 290 149.5 C 290 149.5 290 149.5 290 149.5 C 290 149.5 290 149.5 290 149.5 Z"
+           transform="translate(0,0)"
+           visibility="visible"
+           id="path476" />
+      </g>
+      <g
+         stroke="#FFFFFF"
+         stroke-width="1"
+         stroke-linejoin="round"
+         id="g482">
+        <path
+           fill="#ED561B"
+           d="M 169.1761061998422 100.19565593698567 C 194.84374334195334 68.74544680129779 238.59204446999115 50.87309947574969 289.9443422378124 50.85861187560896 L 290 149.5 C 290 149.5 290 149.5 290 149.5 Z"
+           transform="translate(0,0)"
+           visibility="visible"
+           id="path480" />
+      </g>
+    </g>
+    <g
+       class="highcharts-markers highcharts-series-0"
+       transform="translate(10,49) scale(1 1)"
+       id="g486" />
+  </g>
+  <text
+     x="300"
+     text-anchor="middle"
+     class="highcharts-title"
+     style="color:#000000;font-size:10px;font-family:'arial', sans-serif;fill:#000000;width:536px;"
+     y="17"
+     id="text492"><tspan
+       id="tspan490">Hasil Sensus Marhaenia 2023 - Agama</tspan></text>
+  <text
+     x="300"
+     text-anchor="middle"
+     class="highcharts-subtitle"
+     style="color:#000000;font-size:10px;font-family:'arial', sans-serif;fill:#000000;width:536px;"
+     y="34"
+     id="text496"><tspan
+       id="tspan494">https://marhaenia.github.io/sensus/</tspan></text>
+  <g
+     class="highcharts-data-labels highcharts-series-0"
+     transform="translate(10,49) scale(1 1)"
+     opacity="1"
+     id="g514">
+    <path
+       fill="none"
+       d="M 422.7415125288031 260.9107534165963 C 417.7415125288031 260.9107534165963 370.74999999999994 253.98255018632088 365.24999999999994 244.45627074469203 L 359.74999999999994 234.9299913030632"
+       stroke="#50B432"
+       stroke-width="1"
+       id="path498" />
+    <path
+       fill="none"
+       d="M 157.26013905544698 38.08735293573598 C 162.26013905544698 38.08735293573598 209.25000000000006 45.01555616601149 214.75000000000006 54.54183560764032 L 220.25000000000006 64.06811504926915"
+       stroke="#ED561B"
+       stroke-width="1"
+       id="path500" />
+    <g
+       style="cursor:pointer;"
+       transform="translate(428,251)"
+       id="g506">
+      <text
+         x="5"
+         style="font-size:10px;font-weight:bold;font-family:'arial', sans-serif;color:#000;text-shadow:none;fill:#000;text-rendering:geometricprecision;"
+         y="15"
+         id="text504"><tspan
+           id="tspan502">Islam: 30  - 83.3%</tspan></text>
+    </g>
+    <g
+       style="cursor:pointer;"
+       transform="translate(36,28)"
+       id="g512">
+      <text
+         x="5"
+         style="font-size:10px;font-weight:bold;font-family:'arial', sans-serif;color:#000;text-shadow:none;fill:#000;text-rendering:geometricprecision;"
+         y="15"
+         id="text510"><tspan
+           id="tspan508">Kekristenan: 6  - 16.7%</tspan></text>
+    </g>
+  </g>
+  <g
+     class="highcharts-legend"
+     transform="translate(212,360)"
+     id="g532">
+    <g
+       id="g530">
+      <g
+         id="g528">
+        <g
+           class="highcharts-legend-item"
+           transform="translate(8,3)"
+           id="g520">
+          <text
+             x="21"
+             style="color:#333;font-size:9pt;font-weight:normal;cursor:pointer;font-family:'lucida grande','lucida sans unicode',arial,helvetica,sans-serif;text-transform:none;fill:#333;"
+             text-anchor="start"
+             y="15"
+             id="text516">Islam</text>
+          <rect
+             x="0"
+             y="4"
+             width="16"
+             height="12"
+             fill="#50B432"
+             id="rect518" />
+        </g>
+        <g
+           class="highcharts-legend-item"
+           transform="translate(78.99166870117188,3)"
+           id="g526">
+          <text
+             x="21"
+             y="15"
+             style="color:#333;font-size:9pt;font-weight:normal;cursor:pointer;font-family:'lucida grande','lucida sans unicode',arial,helvetica,sans-serif;text-transform:none;fill:#333;"
+             text-anchor="start"
+             id="text522">Kekristenan</text>
+          <rect
+             x="0"
+             y="4"
+             width="16"
+             height="12"
+             fill="#ED561B"
+             id="rect524" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     class="highcharts-tooltip"
+     display="none"
+     style="cursor:default;padding:0;pointer-events:none;white-space:nowrap;"
+     transform="translate(0,0)"
+     id="g544">
+    <path
+       fill="none"
+       d="M 3.5 0.5 L 13.5 0.5 C 16.5 0.5 16.5 0.5 16.5 3.5 L 16.5 13.5 C 16.5 16.5 16.5 16.5 13.5 16.5 L 3.5 16.5 C 0.5 16.5 0.5 16.5 0.5 13.5 L 0.5 3.5 C 0.5 0.5 0.5 0.5 3.5 0.5"
+       stroke="black"
+       stroke-opacity="0.049999999999999996"
+       stroke-width="5"
+       transform="translate(1, 1)"
+       id="path534" />
+    <path
+       fill="none"
+       d="M 3.5 0.5 L 13.5 0.5 C 16.5 0.5 16.5 0.5 16.5 3.5 L 16.5 13.5 C 16.5 16.5 16.5 16.5 13.5 16.5 L 3.5 16.5 C 0.5 16.5 0.5 16.5 0.5 13.5 L 0.5 3.5 C 0.5 0.5 0.5 0.5 3.5 0.5"
+       stroke="black"
+       stroke-opacity="0.09999999999999999"
+       stroke-width="3"
+       transform="translate(1, 1)"
+       id="path536" />
+    <path
+       fill="none"
+       d="M 3.5 0.5 L 13.5 0.5 C 16.5 0.5 16.5 0.5 16.5 3.5 L 16.5 13.5 C 16.5 16.5 16.5 16.5 13.5 16.5 L 3.5 16.5 C 0.5 16.5 0.5 16.5 0.5 13.5 L 0.5 3.5 C 0.5 0.5 0.5 0.5 3.5 0.5"
+       stroke="black"
+       stroke-opacity="0.15"
+       stroke-width="1"
+       transform="translate(1, 1)"
+       id="path538" />
+    <path
+       fill="rgb(249, 249, 249)"
+       fill-opacity=" .85"
+       d="M 3.5 0.5 L 13.5 0.5 C 16.5 0.5 16.5 0.5 16.5 3.5 L 16.5 13.5 C 16.5 16.5 16.5 16.5 13.5 16.5 L 3.5 16.5 C 0.5 16.5 0.5 16.5 0.5 13.5 L 0.5 3.5 C 0.5 0.5 0.5 0.5 3.5 0.5"
+       id="path540" />
+    <text
+       x="8"
+       style="font-size:12px;color:#000000;fill:#000000;"
+       y="20"
+       id="text542" />
+  </g>
+</svg>
